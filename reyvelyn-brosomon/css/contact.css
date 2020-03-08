@@ -1,0 +1,58 @@
+body
+{
+    background:linear-gradient(to left, rgba(253, 166, 85, 0.932), rgb(223, 183, 96), rgb(226, 210, 117));
+    background-size: 105rem;
+    text-align: center;
+    color: black;
+}
+#contact
+{
+    position: relative;
+    text-align: center;
+    color: black;
+    font-family: Bronova;
+    
+    font-size: 3rem;
+}
+#on
+{
+    position: relative;
+    text-align: center;
+    color: black;
+    top: 20rem;
+    right: 1.5rem;
+    font-family: Bronova;
+    font-size: 2rem; 
+}
+#contact-2
+{
+    position: relative;
+    text-align: center;
+    color: black;
+    top: 10rem;
+    font-size: 2rem; 
+}
+.contact-link
+{
+    position: relative;
+    text-align: center;
+    color: black;
+    font-family: Bronova;
+    font-size: 2rem; 
+}
+.section-link-link
+{
+    position: relative;
+    top: 25rem;
+}
+.head-head
+{
+    position: relative;
+    color: black;
+    background-size: cover;
+    margin-top: -1rem;
+    margin-left: -1rem;
+    margin-right: -20rem;
+    font-family: Countryside;
+    background-size: none;
+}

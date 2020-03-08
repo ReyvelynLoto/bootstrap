@@ -1,0 +1,24 @@
+
+body{
+    background: linear-gradient(to left, peru, brown, lightsalmon );
+    text-align: center;
+    color: rgb(180, 91, 39);
+    padding-bottom: 50%;
+}
+h4{
+  font-size: 4rem;
+  font-style: oblique;
+  text-align: center;
+  background-color:burlywood;
+}
+.btn-outline-primary{
+    color:brown;
+  font-size: 3rem;
+  font-style: oblique;
+  text-align: center;
+  border: coral solid;
+  background: coral;
+}
+#center{
+    text-align: center;
+}

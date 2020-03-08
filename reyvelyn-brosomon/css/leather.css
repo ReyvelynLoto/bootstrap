@@ -1,0 +1,16 @@
+body {
+  padding-top: 56px;
+  background:linear-gradient(to left, rgba(253, 166, 85, 0.932), rgb(223, 183, 96), rgb(226, 210, 117));
+}
+.logo{
+  border-radius: 0;
+  width: 6%;
+  height: 8%;
+}
+.card-img-top{
+  border: darkblue;
+}
+.my-4{
+  font-style: italic;
+  font-size: 5rem;
+}
